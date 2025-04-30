@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello there 👋
+
+**I'm Paolo** - a humble full stack developer at your service.
+
+📫 How to reach me: [jpmariano.dev](https://jpmariano.dev)
+
+🔧 Tools I use to build stuff:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,fastapi,aws,docker,git,mongodb,supabase,tailwind&perline=8)](https://skillicons.dev)
 
 <!--
 **jp-mariano/jp-mariano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
