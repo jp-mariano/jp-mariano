@@ -6,7 +6,7 @@
 
 🔧 Tools I use to build stuff:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,fastapi,aws,docker,git,mongodb,supabase,tailwind&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,fastapi,aws,docker,git,supabase,tailwind,vercel&perline=8)](https://skillicons.dev)
 
 <!--
 **jp-mariano/jp-mariano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
